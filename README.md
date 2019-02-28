@@ -1,9 +1,9 @@
 # MYKEY-APP
-This repository for release MYKEY Mobile Application. 
+This repository is for release MYKEY Mobile Application. 
 
 # Progross
 
-Before MYKEY offically release, MYKEY Project will go through following steps 
+Before offical release, MYKEY Project will go through the following steps:
 
 - Internal Testing Phase 1
 - Internal Testing Phase 2
