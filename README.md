@@ -1,4 +1,6 @@
-# MYKEY-APP
+# MYKEY-APP(deprecated)
+The release download move to [website](https://mykey.org)
+
 This repository is for release MYKEY Mobile Application. 
 
 # Progross
